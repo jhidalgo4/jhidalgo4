@@ -1,9 +1,9 @@
 
 ## I am @jhidalgo-utep n.n 👋 
 
-- 👀 I’m a recent CS graduate applying for FT roles as a Python Developer or Software Engineer or Cloud Developer
+- 👀 I’m a recent CS Graduate applying for FTE role(s) as a Python Developer or Cloud Developer or Software Engineer 
  
-- 🔭 My GitHub to shows my **Android App Design skills** and CS problem solving skills
+- 🔭 My GitHub shows my **Android App Design skills** & CS problem solving skills
  
 - ⚡ Fun fact: I love to play soccer, basketball and DJ Electronic music
  
