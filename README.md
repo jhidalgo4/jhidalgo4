@@ -1,9 +1,7 @@
 
 ## I am @jhidalgo-utep n.n 👋 
 
-- 👀 I’m a recent CS graduate applying for FT roles as a Python Developer or Software Engineer
-- 💬 Ask me about what Im working on ---> Python development, problem solving and learning Cloud AWS/Azure computing
-- 🔭 I’m currently building my GitHub to resemble my portofilio
-- 📫 Best way to reach me is through email: jhidalgo.utep@gmail.com
+- 👀 I’m a recent CS graduate applying for FT roles as a Python Developer or Software Engineer or Cloud Developer
+- 🔭 My GitHub to shows my Android App Design skills
 - ⚡ Fun fact: I love to play soccer, basketball and DJ Electronic music
-
+- 📫 Best way to reach me is through email: jhidalgo.utep@gmail.com
