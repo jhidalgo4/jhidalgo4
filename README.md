@@ -1,5 +1,5 @@
 
-## I am @jhidalgo-utep n.n 👋 
+## I am @jhidalgo-utep 👋 
 
 - 👀 I’m a recent CS Graduate applying for FTE role(s) as a **Python** Developer or **Cloud** Developer or Software **Designer** or **Innovator**
  
