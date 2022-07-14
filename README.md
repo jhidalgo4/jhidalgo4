@@ -1,7 +1,7 @@
 
 ## I am @jhidalgo4 👋 
 
-- 👀 I’m a recent CS Graduate applying for FTE role(s) as am Entry level **Developer** (Cloud/Mobile App/Python) or **Designer** or **Innovator**
+- 👀 I’m a recent CS Graduate applying for FTE roles as an Entry **Developer** (Cloud/Mobile App/Python) or **Designer** or **Innovator**
  
 - 🔭 My GitHub shows my **Android App** Design skills & CS problem solving skills
  
