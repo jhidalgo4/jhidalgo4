@@ -5,6 +5,6 @@
  
 - 🔭 My GitHub shows my **Android App Design** skills & CS problem solving skills
  
-- ⚡ Fun fact: I love to play Soccer, Basketball and Produce Digital Media (audio/video)
+- ⚡ Fun fact: I love to play Soccer, Basketball
  
-- 📫 Best way to reach me is through email: jhidalgo.utep@gmail.com
+- 📫 Best way to reach me is through LinkedIn: https://www.linkedin.com/in/jhidalgo4
